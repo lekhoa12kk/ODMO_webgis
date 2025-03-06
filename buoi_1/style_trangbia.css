@@ -1,0 +1,20 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: antiquewhite;
+    overflow-x: hidden; /* trục ngang */
+    overflow-y: hidden; /* trục đứng */
+    padding: 0;
+    margin: 0;
+}
+.style_header{
+    background-color: rgb(22, 89, 32);
+    height: 10%;
+   
+}
+.style_name{
+    text-align: center;
+    color: yellow;
+    margin: 0;
+    padding-top: 20px;
+}
